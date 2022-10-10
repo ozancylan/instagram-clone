@@ -15,10 +15,29 @@ Diğer kullanıcı fotoğraflarını ve isimlerini anonim olması için webden a
 
 <sub>Kendi hesabım ve Kodluyoruz hesapları dışında butonlar ve profiller çalışmamaktadır.<sub>
 
+>[Proje linki](https://github.com/ozancylan/project-Orpheus.git)
+
+Kullandığım teknolojiler;
+* HTML5
+* CSS
+* BOOTSTRAP
+
 Yardım aldığım web sayfaları;
  >[Random Profil Fotoğrafları](https://randomuser.me/photos)
 
  >[Patika.dev Bootstrap](https://app.patika.dev/courses/bootstrap/odev2)
 
+
+Dilerseniz forklayabilir, clonelayabilir bilgisayarınızda çalıştırıp değişiklikler yapabilirsiniz. Yorumlara yazmanız ve istek göndermeniz yeterlidir.
+
+---
+
+📚**Hakkımda;** 
+
+>[LinkedIn](https://www.linkedin.com/in/ozan-cylan/)
+
+>[Patika.dev](https://app.patika.dev/ozanceylan)
+
+📬[**Bana ulaşın**](mailto:ozanceylan13@gmail.com)
 
 
