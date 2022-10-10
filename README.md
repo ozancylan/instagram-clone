@@ -4,6 +4,7 @@
 
 Eğitim kapsamında Bootstrap ile instagram klonu geliştirdim.
 
+https://user-images.githubusercontent.com/101877656/194916312-bc88df15-9d17-462e-86ea-a3b636acc411.mp4
 
 
 
@@ -15,9 +16,13 @@ Diğer kullanıcı fotoğraflarını ve isimlerini anonim olması için webden a
 
 <sub>Kendi hesabım ve Kodluyoruz hesapları dışında butonlar ve profiller çalışmamaktadır.<sub>
 
->[Proje linki](https://github.com/ozancylan/project-Orpheus.git)
+>[Proje linki](https://github.com/ozancylan/instagram-clone.git)
 
 Kullandığım teknolojiler;
+
+
+
+
 * HTML5
 * CSS
 * BOOTSTRAP
